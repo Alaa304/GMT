@@ -1,0 +1,14 @@
+E:\C#\alaa\GMT\GMT\bin\Debug\net8.0\GMT.exe
+E:\C#\alaa\GMT\GMT\bin\Debug\net8.0\GMT.deps.json
+E:\C#\alaa\GMT\GMT\bin\Debug\net8.0\GMT.runtimeconfig.json
+E:\C#\alaa\GMT\GMT\bin\Debug\net8.0\GMT.dll
+E:\C#\alaa\GMT\GMT\bin\Debug\net8.0\GMT.pdb
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\GMT.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\GMT.AssemblyInfoInputs.cache
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\GMT.AssemblyInfo.cs
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\GMT.csproj.CoreCompileInputs.cache
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\GMT.dll
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\refint\GMT.dll
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\GMT.pdb
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\GMT.genruntimeconfig.cache
+E:\C#\alaa\GMT\GMT\obj\Debug\net8.0\ref\GMT.dll
